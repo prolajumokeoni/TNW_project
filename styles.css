@@ -13,21 +13,28 @@
     color: rgb(173, 173, 173);
     font-family: Helvetica,Arial,sans-serif;
     font: inherit;
-    font-size: 21px;
+    font-size: 17px;
     font-weight: bolder;
     letter-spacing: 1px;
-    word-spacing: 4px;
+    word-spacing: 5px;
     height: 50px;
-    padding-top: 15px;
+    padding-top: 0px;
     cursor: pointer;
+}
+
+.top {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .nav1_left {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-left: 100px;
-    width: 45%;
+    margin-left: 20px;
+    width: 700px;
 }
 
 nav ul li a {
@@ -43,10 +50,14 @@ li {
     list-style: none;
 }
 
+.left {
+    position: absolute;
+    top: 8px;
+}
 
 .right {
     position: absolute;
-    top: 15px;
+    top: 8px;
 }
 
 .nav1_right {
@@ -54,8 +65,8 @@ li {
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    margin-left: 1000px;
-    width: 26%; 
+    margin-left: 950px;
+    width: 25%; 
 }
 
  /* navbar_2 */
@@ -67,31 +78,23 @@ li {
     color: rgb(173, 173, 173);
     font-family: Helvetica,Arial,sans-serif;
     font: inherit;
-    font-size: 21px;
+    font-size: 22px;
     font-weight: lighter;
     letter-spacing: 0px;
     word-spacing: 3px;
     height: 80px;
     margin-top: 10px;
     cursor: pointer;
-    z-index: 2;
-    overflow: hidden;
 }
 
  /* nav ul ul */
- nav ul ul {
-     position: absolute;
-     bottom: 70px;
-     
- }
-
 .nav2-links {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 50%;
+    width: 900px;
     padding-top: 8px;
-    margin-right: 480px;
+    margin-right: 400px;
 }
 /* .nav3_behind {
     display: block;
@@ -630,7 +633,7 @@ li {
 
  /* footer */
 
- /* .footer {
+.footer {
     width: 100%;
     text-align: center;
     background-color: #131313;
@@ -661,7 +664,7 @@ a {
     background-color: #000000;
     color: #FFFFFF;
     padding: 2.5% 7%;
-} */
+} 
 
 
 
