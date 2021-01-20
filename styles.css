@@ -309,13 +309,45 @@ li {
 
 
 
-/* deals*/
+/* deals section*/
 
+.deals-section {
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.deals-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: orangered;
+}
+.anchor-header {
+    color: orangered;
+    text-decoration: none;
+    font-size: 1rem;
+}
 
-
-
-
-
+.deals-wrapper {
+    display: grid;
+    grid-gap: 10px;
+}
+.deals {
+    display: flex;
+}
+.deals img {
+    width: 100px;
+    margin-right: 10px;
+}
+.deals-description  h3 {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.deals-description span {
+    color: gray;
+    font-size: 0.8rem;
+    text-decoration: line-through;
+    margin-right: 5px;
+}
 
 
 
