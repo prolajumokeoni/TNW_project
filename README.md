@@ -12,29 +12,14 @@
 
 [Live Demo Link](https://livedemo.com)
 
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Elyor Doniyorov**
 
 - GitHub: [@githubhandle](https://github.com/EL28DEV)
 - LinkedIn: [LinkedIn](https://linkedin.com/elyor-doniyorov-a24631135/)
 
-👤 **Author2**
+👤 **Oni Olajumoke Priscilla**
 
 - GitHub: [@githubhandle](https://github.com/prolajumokeoni)
 - Twitter: [@twitterhandle](https://twitter.com/prolajumokeoni)
