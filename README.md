@@ -37,7 +37,7 @@
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/prolajumokeoni)
-- Twitter: [@twitterhandle](https://twitter.com/prolajumokeoni
+- Twitter: [@twitterhandle](https://twitter.com/prolajumokeoni)
 - LinkedIn: [LinkedIn](https://linkedin.com/olajumoke-priscilla-oni-44a48b162/)
 
 ## 🤝 Contributing
