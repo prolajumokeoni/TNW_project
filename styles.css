@@ -1,3 +1,7 @@
+
+
+  
+
 .footer {
     width: 100%;
     text-align: center;
@@ -8,7 +12,7 @@
     display: flex;
     justify-content: center;
     color: #FFFFFF;
-    padding: 7% 15%;
+    padding: 2.5% 7%;
 
 }
 
@@ -19,8 +23,8 @@
     padding-left: 0.5em;
 }
 
-a {
-    padding: 5px 20px;
+.anchor-footer {
+    padding: 5px 10px;
     text-decoration: none;
     color: #FFFFFF;
 }
