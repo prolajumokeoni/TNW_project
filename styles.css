@@ -264,7 +264,6 @@ li {
  
 
  /* latest funding rounds */
-
 .latest-funding {
     margin-top: 300px;
 }
@@ -274,6 +273,7 @@ li {
     grid-template-rows: auto;
     gap: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: ;
 }
 
 
