@@ -310,7 +310,13 @@ li {
 
 
 /* deals section*/
-
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
 .deals-section {
     padding: 10px;
     margin-bottom: 50px;
