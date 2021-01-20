@@ -31,7 +31,7 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/https://github.com/EL28DEV)
+- GitHub: [@githubhandle](https://github.com/EL28DEV)
 - LinkedIn: [LinkedIn](https://linkedin.com/elyor-doniyorov-a24631135/)
 
 👤 **Author2**
